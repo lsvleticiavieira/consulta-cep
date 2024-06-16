@@ -16,5 +16,3 @@ while True:
     except ValueError:
         print("Isso não é um código de CEP válido. Tente novamente.")
 
-
-
